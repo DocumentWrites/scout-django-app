@@ -7,3 +7,6 @@ venv/
 
 # Environment variables
 .env
+
+#log files
+scout_apm_debug.log
